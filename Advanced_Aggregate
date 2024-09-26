@@ -1,4 +1,4 @@
--- Start by looking at SpeedySpoon’s data.
+-- Start by looking at Lesuka’s Place data.
 SELECT *
 FROM orders
 ORDER BY id
